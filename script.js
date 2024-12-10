@@ -24,7 +24,7 @@ header.classList.toggle('sticky', window.scrollY > 100);
 
 
 /*========== swiper ==========*/
-
+var swiper =new Swiper(".mySwiper", {})
 
 /*========== dark light mode ==========*/
 
